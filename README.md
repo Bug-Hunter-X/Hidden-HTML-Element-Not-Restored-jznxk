@@ -1,0 +1,1 @@
+This repository demonstrates a common yet easily overlooked error in HTML and JavaScript interactions. An element is hidden via JavaScript but there is no code to make it visible again, resulting in a broken user experience. The solution shows how to properly manage element visibility for a better user interaction.
